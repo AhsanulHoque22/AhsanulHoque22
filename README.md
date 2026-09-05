@@ -14,11 +14,12 @@
 
 I'm a final-year CS &amp; Engineering student at the University of Chittagong who ships full production-grade
 products, not class assignments. Currently building **[Livora](https://livoracu48.vercel.app/)**, an AI-powered
-healthcare platform — 2nd place + incubation at the ITBI Student Startup Pitch Fest 2026 (CUET).
+healthcare platform — Champion at the JnU AI &amp; IT Fest Brainchild 2.0, and 2nd place + incubation at the
+ITBI Student Startup Pitch Fest 2026 (CUET).
 
 - 🩺 Building **Livora** — patients, doctors, labs, and hospital admins on one platform (RAG health assistant, DICOM/FHIR/HL7, voice-driven prescriptions)
 - 🧠 Comfortable across the stack: React/TypeScript, Node.js/Express, Python, SQL, applied LLM/RAG, and embedded systems (ESP32, LoRa)
-- 🏆 2nd Place, ITBI Student Startup Pitch Fest 2026 (CUET) · 1st Place, Robo Soccer, EEE Fest 2025
+- 🏆 Champion, JnU AI &amp; IT Fest Brainchild 2.0 · 2nd Place, ITBI Student Startup Pitch Fest 2026 (CUET) · 1st Place, Robo Soccer, EEE Fest 2025
 - 🎯 Open to full-stack / AI engineering internship &amp; new-grad roles
 - 📫 ahsanulhoque22701048@gmail.com
 
@@ -65,13 +66,56 @@ GPS-denied quadrotor navigation — A*/RRT* benchmarked across 60 trials, writte
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+**[WaifOS](https://github.com/AhsanulHoque22/WaifOS)**
+Lightweight multitasking OS for ESP32 on FreeRTOS — app menu, display rendering, input handling, concurrent scheduling.
+`C++` `Arduino` `FreeRTOS`
+
+</td>
+<td width="50%">
+
+**[Bengali Medical Dialogue Generation](https://github.com/AhsanulHoque22/Nascenia_AI_Hackathon)**
+Fine-tuned a sub-3B LLM (LoRA on Qwen3-1.7B) for doctor-style Bengali responses; explored retrieval hybrids and model-soup ensembling.
+`PyTorch` `LoRA` `NLP`
+
+</td>
+</tr>
 </table>
 
 <div align="center">
 
 → **[See everything on my portfolio](https://ahsanulhoque22.github.io)**
 
+</div>
+
 <br>
+
+### Recognition
+
+<table>
+<tr>
+<td width="50%">🏆 <b>Champion</b> — JnU AI &amp; IT Fest Brainchild 2.0 (for Livora) · 2026</td>
+<td width="50%">🥈 <b>2nd Place</b> — ITBI Student Startup Pitch Fest, CUET (for Livora) · 2026</td>
+</tr>
+<tr>
+<td width="50%">🥇 <b>1st Place</b> — Robo Soccer, EEE Fest, University of Chittagong · 2025</td>
+<td width="50%">🥈 <b>Runner-up</b> — Hackathon Segment, Chittagong Science Carnival (CUSS) · 2025</td>
+</tr>
+<tr>
+<td width="50%">🥈 <b>1st Runner-up</b> — Robo Soccer, Bangabandhu Innovation Fair, Premier University · 2024</td>
+<td width="50%">🎖️ <b>Finalist</b> — Bangabandhu Innovation Grant (BIG) · 2023</td>
+</tr>
+<tr>
+<td width="50%">🏆 <b>Champion</b> — ETE DecaHz, SDG-focused idea competition · 2022</td>
+<td width="50%">🏆 <b>Champion</b> — Project Showcasing, Sci-Circus · 2018</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhsanulHoque22&theme=dark&hide_border=true&background=000000&ring=c9a227&fire=c9a227&currStreakLabel=f5f5f7&sideLabels=f5f5f7&sideNums=c9a227&dates=86868b&currStreakNum=c9a227)
 
