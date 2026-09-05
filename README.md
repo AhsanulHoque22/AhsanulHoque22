@@ -71,9 +71,6 @@ GPS-denied quadrotor navigation — A*/RRT* benchmarked across 60 trials, writte
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhsanulHoque22&show_icons=true&theme=dark&hide_border=true&bg_color=05060a&title_color=4df3ff&icon_color=9b6bff&text_color=e8ecf5)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhsanulHoque22&layout=compact&theme=dark&hide_border=true&bg_color=05060a&title_color=4df3ff&text_color=e8ecf5)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhsanulHoque22&theme=dark&hide_border=true&background=05060a&ring=4df3ff&fire=9b6bff&currStreakLabel=e8ecf5)
 
 </div>
