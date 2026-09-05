@@ -4,11 +4,13 @@
 
 ### Founder/CEO @ Livora · Full-Stack, AI & Embedded Systems Engineer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ahsanulhoque22.github.io-4df3ff?style=for-the-badge&logo=vercel&logoColor=black)](https://ahsanulhoque22.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ahsanulhoque22.github.io-c9a227?style=for-the-badge&logo=vercel&logoColor=000000)](https://ahsanulhoque22.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahsanul-hoque-a31a3235b)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-9b6bff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsanulhoque22701048@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-c9a227?style=for-the-badge&logo=gmail&logoColor=000000)](mailto:ahsanulhoque22701048@gmail.com)
 
 </div>
+
+<br>
 
 I'm a final-year CS &amp; Engineering student at the University of Chittagong who ships full production-grade
 products, not class assignments. Currently building **[Livora](https://livoracu48.vercel.app/)**, an AI-powered
@@ -24,7 +26,7 @@ healthcare platform — 2nd place + incubation at the ITBI Student Startup Pitch
 
 ### Stack
 
-![](https://skillicons.dev/icons?i=py,cpp,ts,js,react,nodejs,express,postgres,mysql,redis,docker,arduino,cpp,git&theme=dark)
+![](https://skillicons.dev/icons?i=py,cpp,ts,js,react,nodejs,express,postgres,mysql,redis,docker,arduino,git&theme=dark)
 
 <br>
 
@@ -71,6 +73,6 @@ GPS-denied quadrotor navigation — A*/RRT* benchmarked across 60 trials, writte
 
 <br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhsanulHoque22&theme=dark&hide_border=true&background=05060a&ring=4df3ff&fire=9b6bff&currStreakLabel=e8ecf5)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhsanulHoque22&theme=dark&hide_border=true&background=000000&ring=c9a227&fire=c9a227&currStreakLabel=f5f5f7&sideLabels=f5f5f7&sideNums=c9a227&dates=86868b&currStreakNum=c9a227)
 
 </div>
