@@ -111,19 +111,22 @@ Fine-tuned a sub-3B LLM (LoRA on Qwen3-1.7B) for doctor-style Bengali responses;
 <tr>
 <td width="50%">🏆 <b>Champion</b> — REACT 2026 Datathon, Tabular Fraud Detection · 2026</td>
 <td width="50%">🏆 <b>Champion</b> — JnU AI &amp; IT Fest Brainchild 2.0 (for Livora) · 2026</td>
+</tr>
+<tr>
 <td width="50%">🥈 <b>2nd Place</b> — ITBI Student Startup Pitch Fest, CUET (for Livora) · 2026</td>
-</tr>
-<tr>
 <td width="50%">🥇 <b>1st Place</b> — Robo Soccer, EEE Fest, University of Chittagong · 2025</td>
+</tr>
+<tr>
 <td width="50%">🥈 <b>Runner-up</b> — Hackathon Segment, Chittagong Science Carnival (CUSS) · 2025</td>
-</tr>
-<tr>
 <td width="50%">🥈 <b>1st Runner-up</b> — Robo Soccer, Bangabandhu Innovation Fair, Premier University · 2024</td>
-<td width="50%">🎖️ <b>Finalist</b> — Bangabandhu Innovation Grant (BIG) · 2023</td>
 </tr>
 <tr>
+<td width="50%">🎖️ <b>Finalist</b> — Bangabandhu Innovation Grant (BIG) · 2023</td>
 <td width="50%">🏆 <b>Champion</b> — ETE DecaHz, SDG-focused idea competition · 2022</td>
+</tr>
+<tr>
 <td width="50%">🏆 <b>Champion</b> — Project Showcasing, Sci-Circus · 2018</td>
+<td width="50%"></td>
 </tr>
 </table>
 
