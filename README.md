@@ -14,12 +14,13 @@
 
 I'm a final-year CS &amp; Engineering student at the University of Chittagong who ships full production-grade
 products, not class assignments. Currently building **[Livora](https://livoracu48.vercel.app/)**, an AI-powered
-healthcare platform — Champion at the JnU AI &amp; IT Fest Brainchild 2.0, and 2nd place + incubation at the
-ITBI Student Startup Pitch Fest 2026 (CUET).
+healthcare platform — **Champion at the JnU AI &amp; IT Fest Brainchild 2.0,** and **2nd place + incubation at the
+ITBI Student Startup Pitch Fest 2026**. Also 🏆 **Champion, REACT 2026 Datathon** (Tabular Fraud
+Detection).
 
 - 🩺 Building **Livora** — patients, doctors, labs, and hospital admins on one platform (RAG health assistant, DICOM/FHIR/HL7, voice-driven prescriptions)
 - 🧠 Comfortable across the stack: React/TypeScript, Node.js/Express, Python, SQL, applied LLM/RAG, and embedded systems (ESP32, LoRa)
-- 🏆 Champion, JnU AI &amp; IT Fest Brainchild 2.0 · 2nd Place, ITBI Student Startup Pitch Fest 2026 (CUET) · 1st Place, Robo Soccer, EEE Fest 2025
+- 🏆 Champion, REACT 2026 Datathon (Tabular Fraud Detection) · Champion, JnU AI &amp; IT Fest Brainchild 2.0 · 2nd Place, ITBI Student Startup Pitch Fest 2026 (CUET) · 1st Place, Robo Soccer, EEE Fest 2025
 - 🎯 Open to full-stack / AI engineering internship &amp; new-grad roles
 - 📫 ahsanulhoque22701048@gmail.com
 
@@ -53,11 +54,21 @@ Autonomous AI agent running study/startup/task workflows from a git-versioned va
 <tr>
 <td width="50%">
 
+**[Overfit & Overcaffeinated](https://github.com/AhsanulHoque22/react-2026-datathon)**
+🏆 Champion — REACT 2026 Datathon. Ranking-based fraud detection over 262K blind, forward-in-time transactions: 160 behavioural features, dual-horizon LightGBM + ResNet ensemble, neighbour-score propagation. 0.56548 PR-AUC, 3.4× baseline.
+`Python` `LightGBM` `PyTorch`
+
+</td>
+<td width="50%">
+
 **[Vision-Based Drone Navigation](https://github.com/AhsanulHoque22/Drone_Project)**
 GPS-denied quadrotor navigation — A*/RRT* benchmarked across 60 trials, written up as an IEEE paper.
 `Python` `PyBullet` `Path Planning`
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 **[Scraper Pipeline](https://github.com/AhsanulHoque22/scraper-pipeline)**
@@ -65,8 +76,7 @@ GPS-denied quadrotor navigation — A*/RRT* benchmarked across 60 trials, writte
 `Python` `Playwright` `Multi-LLM`
 
 </td>
-</tr>
-<tr>
+
 <td width="50%">
 
 **[WaifOS](https://github.com/AhsanulHoque22/WaifOS)**
@@ -74,6 +84,9 @@ Lightweight multitasking OS for ESP32 on FreeRTOS — app menu, display renderin
 `C++` `Arduino` `FreeRTOS`
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 **[Bengali Medical Dialogue Generation](https://github.com/AhsanulHoque22/Nascenia_AI_Hackathon)**
@@ -96,6 +109,7 @@ Fine-tuned a sub-3B LLM (LoRA on Qwen3-1.7B) for doctor-style Bengali responses;
 
 <table>
 <tr>
+<td width="50%">🏆 <b>Champion</b> — REACT 2026 Datathon, Tabular Fraud Detection · 2026</td>
 <td width="50%">🏆 <b>Champion</b> — JnU AI &amp; IT Fest Brainchild 2.0 (for Livora) · 2026</td>
 <td width="50%">🥈 <b>2nd Place</b> — ITBI Student Startup Pitch Fest, CUET (for Livora) · 2026</td>
 </tr>
